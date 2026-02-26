@@ -2,7 +2,7 @@
 
 此專案提供 **Fubon Omnitag SDK 的打包產物（distribution files）**。
 
-客戶可直接 clone 此 repo，並將 `fubon-omnitag/` 資料夾放入 Cordova App 的 `src/assets/` 後使用。
+可直接 clone 此 repo，並將 `fubon-omnitag/` 資料夾放入 Cordova App 的 `src/assets/` 後使用。
 
 ## 專案用途
 
