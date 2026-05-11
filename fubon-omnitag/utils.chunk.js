@@ -1,0 +1,1 @@
+"use strict";(self["fubon-omnitag-webpackChunk"]=self["fubon-omnitag-webpackChunk"]||[]).push([[493],{5868:(n,s,e)=>{e.r(s),e.d(s,{setupCdn:()=>o});var t=e(2141),u=e(397);function o(n){var s=n.host,e=n.useCdn,o=n.cdnHost;(0,u.g$)({host:s,useCdn:e,cdnHost:o}),(0,t.e6)(u.eV)}}}]);
